@@ -1,0 +1,36 @@
+/* body{
+    background-image: url(./finder/git.png);
+} */
+.github-logo{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.5rem;
+   border-bottom: 1px solid black;
+}
+
+
+
+.searcher{
+    display: flex;
+    flex-direction: row;  
+    margin-bottom: 1.5rem;
+     
+}
+
+.prompt{
+    border-radius: none;
+    margin-left: 1rem;
+}
+
+.first{
+    margin-right: .7rem;
+    
+}
+
+.username{
+    border-radius: none;
+    padding: 2rem;
+}
+
+
+
